@@ -3,7 +3,7 @@
  $host = "localhost";
  $port = "5432";
  $dbname = "pro_inter";
- $user= "";
+ $user= "postgres";
  $password="postgres";
 
  
