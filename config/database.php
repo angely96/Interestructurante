@@ -1,10 +1,12 @@
 <?php
+
  $host = "localhost";
  $port = "5432";
  $dbname = "pro_inter";
  $user= "";
  $password="postgres";
 
+ 
 $conn = pg__connect("
     host=$host
     port= $port
